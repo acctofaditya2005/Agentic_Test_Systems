@@ -39,5 +39,5 @@ Added three key improvements:
 2. Circuit breaker — prevents agent from looping infinitely
 3. Context engineering — agent reads HTML before fixing to prevent hallucination
 
-Key lesson: The agent initially hallucinated fixes (changed .drum-k to .drum 
-instead of .k). Solved by giving the agent verified HTML context before acting.
+**COOL thing that happend!!**: The agent initially hallucinated fixes (changed .drum-k to .drum 
+instead of .k) and then it printed passed. I solved it by giving the agent verified HTML context before acting.
